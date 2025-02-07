@@ -7,7 +7,9 @@ The task is to build Bayes classifiers with different covariance matrix assumpti
 🟢 **Dataset 1**: Linearly separable classes (3 classes, 2D)\
 <img width="656" alt="figr5" src="https://github.com/user-attachments/assets/db50a2d6-5342-499c-8723-06109d52b7e4" />
 
-🔵 Dataset 2: Nonlinearly separable classes (2 or 3 classes, 2D)\
+🔵 **Dataset 2**: Nonlinearly separable classes (2 or 3 classes, 2D)\
+<img width="653" alt="LSD 4 c" src="https://github.com/user-attachments/assets/913a6c49-52b3-4061-b3cf-27e37ec454f2" />
+
 🟡 Dataset 3: Real-world vowel dataset (2D - formant frequencies F1 and F2)
 
 📌 **Classification Methods**\
