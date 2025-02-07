@@ -1,4 +1,4 @@
-# Bayesian-Classification-of-Linearly-Non-Linearly-Separable-Data
+# Bayesian-Classification :
 This repository contains the implementation of Bayes Classifiers for Classification Tasks in Statistical Pattern Recognition. The assignment focuses on implementing classification models from scratch, analyzing decision boundaries, and evaluating performance using various metrics.
 
 🚀  **Assignment Overview**\
