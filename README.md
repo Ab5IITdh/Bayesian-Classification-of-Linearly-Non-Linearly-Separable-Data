@@ -4,7 +4,9 @@ This repository contains the implementation of Bayes Classifiers for Classificat
 🚀  **Assignment Overview**\
 The task is to build Bayes classifiers with different covariance matrix assumptions on three datasets:
 
-🟢 Dataset 1: Linearly separable classes (3 classes, 2D)\
+🟢 **Dataset 1**: Linearly separable classes (3 classes, 2D)\
+<img width="656" alt="figr5" src="https://github.com/user-attachments/assets/db50a2d6-5342-499c-8723-06109d52b7e4" />
+
 🔵 Dataset 2: Nonlinearly separable classes (2 or 3 classes, 2D)\
 🟡 Dataset 3: Real-world vowel dataset (2D - formant frequencies F1 and F2)
 
