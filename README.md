@@ -28,3 +28,11 @@ The evaluation includes:
 📖 **Mathematical Formulation & Theory**\
 🔹 Bayes Theorem:
 A Bayesian classifier is based on posterior probabilities computed as :\
+
+
+
+
+🔹 Decision Boundaries
+Decision surfaces between classes are formed using log-likelihood ratios, computed from the Gaussian densities.
+For same covariance assumption, decision boundaries are linear.
+For different covariance matrices, boundaries become quadratic.
