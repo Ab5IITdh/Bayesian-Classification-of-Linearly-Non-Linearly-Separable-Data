@@ -6,7 +6,7 @@ The task is to build Bayes classifiers with different covariance matrix assumpti
 
 🟢 Dataset 1: Linearly separable classes (3 classes, 2D)\
 🔵 Dataset 2: Nonlinearly separable classes (2 or 3 classes, 2D)\
-🟡 Dataset 3: Real-world vowel dataset (2D - formant frequencies F1 and F2)\
+🟡 Dataset 3: Real-world vowel dataset (2D - formant frequencies F1 and F2)
 
 📌 **Classification Methods**\
 We assume Gaussian class-conditional densities and build four different Bayes Classifiers:\
@@ -14,7 +14,7 @@ We assume Gaussian class-conditional densities and build four different Bayes Cl
 1️⃣ Same covariance matrix across all classes (σ²I - diagonal matrix)\
 2️⃣ Full covariance matrix (Σ) shared across all classes\
 3️⃣ Diagonal covariance matrix, different for each class\
-4️⃣ Full covariance matrix, different for each class\
+4️⃣ Full covariance matrix, different for each class
 
 📊 **Performance Metrics**\
 The evaluation includes:\
@@ -23,7 +23,7 @@ The evaluation includes:\
 ✅ Classification Accuracy\
 ✅ Precision, Recall, F1-score (Per-Class & Mean)\
 ✅ Constant Density Contour Plots\
-✅ Decision Region Plots (For Each Dataset & Class Pairs)\
+✅ Decision Region Plots (For Each Dataset & Class Pairs)
 
 📖 **Mathematical Formulation & Theory**\
 🔹 Bayes Theorem:\
