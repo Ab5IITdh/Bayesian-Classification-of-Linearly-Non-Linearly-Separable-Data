@@ -29,9 +29,6 @@ The evaluation includes:
 ✅ Constant Density Contour Plots\
 ✅ Decision Region Plots (For Each Dataset & Class Pairs)
 
-📖 **Mathematical Formulation & Theory**\
-🔹 Bayes Theorem:
-A Bayesian classifier is based on posterior probabilities computed as :\
 
 
 
