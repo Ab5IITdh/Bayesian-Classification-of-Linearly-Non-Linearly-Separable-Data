@@ -4,6 +4,7 @@ This repository contains the implementation of Bayes Classifiers for Classificat
 🚀  **Assignment Overview**\
 The task is to build Bayes classifiers with different covariance matrix assumptions on three datasets:
 
+---
 🟢 **Dataset 1**: Linearly separable classes (3 classes, 2D)\
 <img width="656" alt="figr5" src="https://github.com/user-attachments/assets/db50a2d6-5342-499c-8723-06109d52b7e4" />
 
@@ -12,6 +13,7 @@ The task is to build Bayes classifiers with different covariance matrix assumpti
 
 🟡 Dataset 3: Real-world vowel dataset (2D - formant frequencies F1 and F2)
 
+---
 📌 **Classification Methods**\
 We assume Gaussian class-conditional densities and build four different Bayes Classifiers:
 
@@ -20,6 +22,7 @@ We assume Gaussian class-conditional densities and build four different Bayes Cl
 3️⃣ Diagonal covariance matrix, different for each class\
 4️⃣ Full covariance matrix, different for each class
 
+---
 📊 **Performance Metrics**\
 The evaluation includes:
 
@@ -29,9 +32,7 @@ The evaluation includes:
 ✅ Constant Density Contour Plots\
 ✅ Decision Region Plots (For Each Dataset & Class Pairs)
 
-
-
-
+---
 
 🔹 Decision Boundaries
 Decision surfaces between classes are formed using log-likelihood ratios, computed from the Gaussian densities.
